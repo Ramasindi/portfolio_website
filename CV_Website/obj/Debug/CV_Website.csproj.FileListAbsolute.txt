@@ -1,0 +1,7 @@
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\bin\CV_Website.dll.config
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\bin\CV_Website.dll
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\bin\CV_Website.pdb
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\obj\Debug\CV_Website.csproj.AssemblyReference.cache
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\obj\Debug\CV_Website.csproj.CoreCompileInputs.cache
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\obj\Debug\CV_Website.dll
+C:\Users\Thalukanyo\source\repos\CV_Website\CV_Website\obj\Debug\CV_Website.pdb
